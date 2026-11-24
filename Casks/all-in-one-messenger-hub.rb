@@ -1,6 +1,6 @@
 cask "all-in-one-messenger-hub" do
-  version "1.1.63"
-  sha256 "15d2198efb1f4e1a830624a68f11b9dffbae046bc446e3a70f9a4a33fb80430c"
+  version "1.1.64"
+  sha256 "40e5edfd17aeccf3402bebf870f423a6bc0925aa4922a3e647d36b8e5f5aec9f"
 
   url "https://github.com/doonfrs/all-in-one-messenger-hub-releases/releases/download/v#{version}/AllInOneMessengerHub.dmg",
       verified: "github.com/doonfrs/all-in-one-messenger-hub-releases/"
